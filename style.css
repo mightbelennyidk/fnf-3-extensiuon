@@ -1,0 +1,28 @@
+body {
+    width: 250px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    font-size: 18px;
+}
+
+#gameList {
+    margin-top: 10px;
+}
+
+button {
+    padding: 10px;
+    margin: 5px;
+    background-color: #f39c12;
+    color: white;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #e67e22;
+}
